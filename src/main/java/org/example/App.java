@@ -5,3 +5,4 @@ public class App {
         System.out.println("Открытие магазина ожидается через 4 дня");
     }
 }
+
